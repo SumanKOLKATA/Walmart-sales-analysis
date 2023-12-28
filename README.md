@@ -201,6 +201,14 @@ select city_location, sum(sales) sales_of_citie from dim_sale_qrt_1
 group by city_location
 )
 
+# Power BI 
 
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
 
 
