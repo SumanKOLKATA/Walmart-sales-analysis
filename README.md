@@ -203,12 +203,12 @@ group by city_location
 
 # Power BI 
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="VIS_1.png">
+<img align="center" alt="dataanalysis"  width = "1000" height = "450px" src="VIS_1.png">
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+<img align="center" alt="dataanalysis"  width = "1000" height = "450px" src="VIS_2.png">
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+<img align="center" alt="dataanalysis"  width = "1000" height = "450px" src="VIS_3.png">
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+<img align="center" alt="dataanalysis"  width = "1000" height = "450px" src="VIS_4.png">
 
 
